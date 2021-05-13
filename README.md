@@ -24,9 +24,9 @@ Our v1 strategy is a simple autocompounder that redeposits into the same vault, 
 Our treasury includes a small amount of accounting functions
 
 
-## Community 🐄
+## Community 💀
 
-If you have any questions, reach us out on any of our channels. Our community is awesome and there’s always someone to help out. Even if you don’t have doubts, come say hi!
+If you have any questions, concerns or suggestions join our communtiy. We want to hear from people who use our service and help foster a positive community for fantom power users and novices alike. We look forward to helping you Reap, Compound, and Reapet.
 
 
 Discord: https://discord.gg/UGyepS9
