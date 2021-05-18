@@ -1,7 +1,3 @@
-/**
- *Submitted for verification at BscScan.com on 2020-11-06
-*/
-
 // File: @openzeppelin/contracts/GSN/Context.sol
 
 
