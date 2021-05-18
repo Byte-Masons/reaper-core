@@ -26,7 +26,7 @@ Our treasury includes a small amount of accounting functions
 
 ## Community 💀
 
-If you have any questions, concerns or suggestions join our communtiy. We want to hear from people who use our service and help foster a positive community for fantom power users and novices alike. We look forward to helping you Reap, Compound, and Reapet.
+If you have any questions, concerns or suggestions join our communtiy. We want to hear from people who use our service and help foster a positive community for fantom power users and novices alike. We look forward to helping you Reap, Compound, and Repeat.
 
 
 Discord: https://discord.gg/UGyepS9
