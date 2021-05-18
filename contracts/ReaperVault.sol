@@ -1181,7 +1181,7 @@ contract ReaperVault is ERC20, Ownable, ReentrancyGuard {
 
     function incrementDeposits(uint _amount) internal returns (bool) {
       uint initial = cumulativeDeposits[msg.sender];
-      uint newTotal = initial + _amount;
+      uint newTotal = initial.add(_amount);
       cumulativeDeposits[msg.sender] = newTotal;
       emit DepositsIncremented(msg.sender, _amount, newTotal);
       return true;
@@ -1189,7 +1189,7 @@ contract ReaperVault is ERC20, Ownable, ReentrancyGuard {
 
     function incrementWithdrawals(uint _amount) internal returns (bool) {
       uint initial = cumulativeWithdrawals[msg.sender];
-      uint newTotal = initial + _amount;
+      uint newTotal = initial.add(_amount);
       cumulativeWithdrawals[msg.sender] = newTotal;
       emit WithdrawalsIncremented(msg.sender, _amount, newTotal);
       return true;
